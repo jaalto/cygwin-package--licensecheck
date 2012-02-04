@@ -1,0 +1,64 @@
+licensecheck
+------------------------------------------
+
+Simple license checker for source files
+
+Attempt to determine the license that applies to each file passed to
+it, by searching the start of the file for text belonging to various
+licenses. If any of the arguments passed are directories, licensecheck
+will add the files contained within to the list of files to process.
+
+Runtime requirements:
+  perl
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://packages.debian.org/devscripts
+
+Canonical download:
+  See above
+
+Version control repository:
+   git://anonscm.debian.org/devscripts/devscripts.git
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Debian Devscripts Devel Team <pkg-devscripts@teams.debian.net>
+  Bugs: http://bugs.debian.org/devscripts
+
+License:
+  GPL
+
+Language:
+  Perl
+
+------------------------------------------
+
+Build instructions:
+  unpack licensecheck-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./licensecheck*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See Cygwin package archive
+
+------------------------------------------
+
+Port Notes:
+
+----- version 2.11.3-1 -----
+- Initial release 2012-02-04 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
