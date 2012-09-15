@@ -14,6 +14,9 @@
 PATH="/sbin:/usr/sbin/:/bin:/usr/bin"
 LC_ALL="C"
 
+echo ">> Nothing to build for Perl script"
+
+echo ">> Converting POD to manual page"
 pod2man scripts/licensecheck.pl > CYGWIN-PATCHES/man/licensecheck.1
 
 # End of file
