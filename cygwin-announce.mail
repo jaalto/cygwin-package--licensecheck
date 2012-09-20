@@ -16,7 +16,8 @@ will add the files contained within to the list of files to process.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-This project does not maintain ChnageLog.
+See version control log at
+http://anonscm.debian.org/gitweb/?p=devscripts/devscripts.git;a=history;f=scripts/licensecheck.pl;h=d98b974adda61b5bb5c157b7e279bbfa57dbe678;hb=HEAD
 
 INSTALL OR UPGRADE NOTES
 ========================
@@ -32,7 +33,7 @@ system. Then, run setup and answer all of the questions. You'll find
 the package listed in the "All" category. After installation, read the
 documentation at directories:
 
-    /usr/share/doc/<package-version>/*
+    /usr/share/doc/<package>/*
     /usr/share/doc/Cygwin/<package-version>.README
 
 If you have questions or comments, please send them to the Cygwin
