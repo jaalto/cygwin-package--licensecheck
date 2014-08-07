@@ -17,7 +17,7 @@ CHANGES SINCE LAST RELEASE
 ==========================
 
 See version control log at
-http://anonscm.debian.org/gitweb/?p=devscripts/devscripts.git;a=history;f=scripts/licensecheck.pl;h=d98b974adda61b5bb5c157b7e279bbfa57dbe678;hb=HEAD
+http://anonscm.debian.org/cgit/collab-maint/devscripts.git/log/scripts/licensecheck.pl
 
 INSTALL OR UPGRADE NOTES
 ========================
