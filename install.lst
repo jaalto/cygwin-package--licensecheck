@@ -10,5 +10,5 @@
 #    man.1
 #    program.pl
 
-scripts/licensecheck.pl
+scripts/licensecheck.pl usr/bin/
 CYGWIN-PATCHES/man/licensecheck.1
