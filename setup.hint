@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Simple license checker for source files"
 ldesc: "Attempt to determine the license that applies to each file passed to
 it, by searching the start of the file for text belonging to various
